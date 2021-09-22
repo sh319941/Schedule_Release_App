@@ -1,0 +1,13 @@
+{
+  "loginHeader": "Welcome to Shell Aviation",
+  "loginsubHeading": "Schedule Release",
+  "loginSubHeader": "Please login to continue",
+  "loginShellUser": " If you are a Shell user",
+  "loginNonShellUser": "I do not have a smart card",
+  "Schedule Check":"Schedule Check",
+  "Report" :"Report",
+  "clickHere":"Click here",
+  "UserList":{"name":"Name","Email":"Email","Role":"Role","SiteName":"Site Name","Status":"Status","Action":"Actions"},
+  "SiteList":{"Airport":"Airport","ITP Operating Company":"ITP Operating Company","SiteName":"Site Name","Status":"Status","Action":"Actions"}
+
+}

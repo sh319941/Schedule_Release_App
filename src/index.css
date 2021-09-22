@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Futura';
+  src: url('./assets/fonts/futura/futur.ttf')
+}
+@font-face {
+  font-family: 'Futura-Bold';
+  src: url('./assets/fonts/futura/Futura\ Bold\ font.ttf');
+}
+@font-face {
+  font-family: 'Futura-Heavy';
+  src:  url('./assets/fonts/futura/Futura\ Heavy\ font.ttf') ;
+}
+@font-face {
+  font-family: 'Futura-Medium';
+  src: url('./assets/fonts/futura/futura\ medium\ bt.ttf');
+}
+
+@font-face {
+  font-family: 'Futura-Book';
+  src: url('./assets/fonts/futura/Futura\ Book\ font.ttf');
+}
+html {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  padding: 0px !important;;
+  margin: 0px !important;;
+  height: 100vh;
+  width: 100vw;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0%;
+  font-family: Futura Medium  ;
+}
+a {
+  text-decoration: none;
+ }
+
+
+.grid-wrapper {
+  height: 100%;
+  padding-top: 26px;
+  box-sizing: border-box;
+}
+
+.button-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: -3px;
+}

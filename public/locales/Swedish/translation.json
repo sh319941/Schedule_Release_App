@@ -1,0 +1,10 @@
+{
+  "loginHeader": "Välkommen till Schedule Release",
+  "loginSubHeader": "Vänligen logga in för att fortsätta",
+  "loginShellUser": "Om du är användare av Shell",
+  "loginNonShellUser": "Jag har inte ett smart card",
+  "loginButton":"Logga in",
+  "clickHere":"Klicka här",
+  "copyright" :""
+  
+}

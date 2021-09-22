@@ -1,0 +1,9 @@
+export const pingClientId = process.env.REACT_APP_PING_CLIENT_ID;
+export const janrainClientId = process.env.REACT_APP_CLIENT_ID;
+export const tokenPingUrl = process.env.REACT_APP_PING_URL;
+export const tokenJanrainUrl = process.env.REACT_APP_JANRAIN_URL;
+export const userInfoUrl = localStorage.getItem('userinfoUrl');
+export const redirectURL = process.env.REACT_APP_SERVER_REDIRECT_URL;
+export const scope = 'openid email profile';
+export const userInfoEndpoint = '/userinfo';
+export const extra = { prompt: 'consent', access_type: 'offline' };

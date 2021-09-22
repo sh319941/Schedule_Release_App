@@ -1,0 +1,9 @@
+{
+  "loginHeader": "Καλώς ήρθατε στην ελευθέρωση προγράμματος",
+  "loginSubHeader": "Παρακαλώ συνδεθείτε για να συνεχίσετε",
+  "loginShellUser": "Εάν είστε χρήστης της Shell",
+  "loginNonShellUser": "Δεν έχω έξυπνη κάρτα",
+  "loginButton":"Είσοδος",
+  "copyright" :"",
+  "clickHere":"Κάντε κλικ εδώ"
+}

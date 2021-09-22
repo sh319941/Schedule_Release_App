@@ -1,0 +1,16 @@
+export const serverUrl = process.env.REACT_APP_SERVER_URL;
+export const profileUrl = serverUrl + "/api/UserDetails/email?";
+export const UserDetails = serverUrl + "/api/UserDetails";
+export const siteList = serverUrl + "/api/Sites";
+export const roleList = serverUrl + "/api/Roles";
+export const userInfo = serverUrl + "/api/UserDetails/email";
+export const airportDetails = serverUrl + "/api/Airport";
+export const airportType = serverUrl + "/api/AircraftType";
+export const countryDetails = serverUrl + "/api/Country";
+export const tnc = serverUrl + "/api/Tnc";
+export const singleCheck = serverUrl + "/api/FlightCheckMultiDest";
+export const generateReport = serverUrl + "/api/Reports";
+export const generateExcelReport = serverUrl + "/api/Reports/GetReportsExcel";
+export const multiCheck=serverUrl+"/api/FlightCheckMultiDest/BulkFlightCheck";
+export const shellList = serverUrl + "/api/AircraftRegistration";
+export const prefixList = serverUrl + "/api/AircraftRegistrationPrefix";

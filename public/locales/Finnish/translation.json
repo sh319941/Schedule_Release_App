@@ -1,0 +1,10 @@
+{
+  "loginHeader": "Tervetuloa Schedule Release:iin",
+  "loginSubHeader": "Jatka kirjautumalla",
+  "loginShellUser": "Jos olet Shellin käyttäjä ",
+  "loginNonShellUser": "Minulla ei ole smart-korttia",
+  "loginButton":"Kirjaudu",
+  "clickHere":"Klikkaa tästä",
+  "copyright" :""
+  
+}

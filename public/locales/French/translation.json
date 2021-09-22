@@ -1,0 +1,10 @@
+{
+  "loginHeader": "Bienvenue à Schedule Release",
+  "loginSubHeader": "S’il vous plaît vous connecter pour continuer",
+  "loginShellUser": "Si vous êtes un utilisateur de Shell",
+  "loginNonShellUser": "I do not have a smart card",
+  "Schedule Check":"Schedule Check",
+  "Report" :"Report",
+  "loginButton":"Conexxion",
+  "clickHere":"Cliquez ici"
+}

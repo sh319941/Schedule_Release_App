@@ -1,0 +1,25 @@
+.App {
+  box-sizing: border-box;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.App-link {
+  color: #61dafb;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*New Changes*/
+.LoginContainer {
+	padding:80px 164px;
+	margin: 1px solid;
+}
+

@@ -1,0 +1,5 @@
+export default {
+  PUSH_ERROR: 'PUSH_ERROR',
+  REMOVE_ERROR: 'REMOVE_ERROR',
+  IS_PAGE_ACCESS: 'IS_PAGE_ACCESS',
+};
